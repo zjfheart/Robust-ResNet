@@ -1,6 +1,7 @@
 # Robust-ResNet
 IJCAI2019 paper: Towards Robust ResNet: A Small Step but a Giant Leap
 
+<https://arxiv.org/abs/1902.10887>
 
 ## Packages needed:
 Python3.5, numpy, pytorch, matplotlib, pickle, absl, json, sklearn, and tqdm.  
